@@ -1,4 +1,3 @@
-```python
 import io
 import json
 import os
@@ -940,4 +939,3 @@ st.caption(
     "before using quantities for procurement, "
     "tendering, billing, or contractual work."
 )
-```
