@@ -1,8 +1,6 @@
-```text
 streamlit
 groq
 PyMuPDF
 pandas
 openpyxl
 Pillow
-```
